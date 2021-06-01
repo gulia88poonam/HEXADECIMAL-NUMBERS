@@ -1,0 +1,28 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+    background-color:#ffffff;
+}
+.studentname{
+  background-color: #000000;
+  display: flex;
+  justify-content: space-evenly;
+  font-color: red;
+  font-size: xx-large;
+  
+}
+.games{
+ background-color: #808080;
+}
+.gameslink{
+ background-color: #facbed;
+}
+.footer{
+    background-color:#abcdef;
+    display:flex;
+    justify-content: space-between;
+
+}
